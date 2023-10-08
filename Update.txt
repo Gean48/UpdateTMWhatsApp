@@ -3,5 +3,5 @@
   "force_update":"false",    
   "title":"Base Atualizada para 2.23.20.21 🛠",
   "description":" Novo: Salvar recurso para novas mensagens de vídeo\n Novo: Ativado adicionar mais de uma conta\n Novo: Change font, agora pode escolher font diretamente do armazenamento do celular\n Entre outras coisas",
-  "download":"https://telegra.ph/WhatsApp-Mini-09-15"
+  "download":"https://telegra.ph/TMWhatsApp-10-08"
 }
